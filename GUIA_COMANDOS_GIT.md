@@ -1,6 +1,17 @@
+📚 **Material didáctico | CFGS Desarrollo de Aplicaciones Multiplataforma**
+
+**Curso:** 1.º DAM  
+**Módulo:** Entornos de Desarrollo  
+**Profesor y autor:** Christian Bihurriet  
+**Centro educativo:** CESUR
+
+---
+
 # Guía de comandos de Git
 
 Esta guía reúne los comandos de Git más utilizados, clasificados por categorías. Los bloques se pueden copiar y pegar directamente en la terminal.
+
+Este repositorio contiene material docente elaborado para enseñar el uso de Git en el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Incluye explicaciones, ejemplos progresivos y comandos pensados para estudiantes que están aprendiendo a utilizar sistemas de control de versiones.
 
 > **Nota:** sustituye valores como `tu-nombre`, `archivo.txt`, `rama` o las URL por los datos de tu proyecto. Las salidas pueden variar según la versión de Git y el estado del repositorio.
 
@@ -627,4 +638,16 @@ git push
 | Publicar cambios | `git push` |
 | Guardar cambios temporalmente | `git stash` |
 | Restaurar un archivo | `git restore archivo.txt` |
+
+---
+
+## Sobre este material
+
+Este proyecto forma parte de una colección de recursos educativos desarrollados por **Christian Bihurriet** para sus clases del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
+
+El contenido está adaptado deliberadamente al nivel del alumnado y prioriza la **claridad didáctica** y el aprendizaje progresivo sobre la complejidad técnica. Los comandos, explicaciones y ejemplos de terminal sirven como material de consulta y apoyo durante el aprendizaje de Git.
+
+📚 **Material didáctico | CFGS Desarrollo de Aplicaciones Multiplataforma**  
+**Curso:** 1.º DAM · **Módulo:** Entornos de Desarrollo  
+**Profesor y autor:** Christian Bihurriet · **Centro educativo:** CESUR
 
